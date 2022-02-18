@@ -31,6 +31,6 @@
             <button onclick="myFunction()" class="btn btn-primary">Copy Tags</button>
             </div>
     </div>
-<script src="https://technicalinteract.com/tools_data/cdn/tag/crawler.min.js"></script>
+<script src="https://technicalinteract.com/tools_data/cdn/tag/crawler.js"></script>
 </body>
 </html>

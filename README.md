@@ -7,5 +7,5 @@ Add API on crowler.js file
 // https://www.googleapis.com/youtube/v3/videos?part=snippet&id=${e}&type=video&key={*********API KEY*********}
 Now you are good to go use any CPanel or Xampp Server to use this code
 
-Check Demo Here: https://harssh.com/tools/youtube-video-tag-extractor/
+Check Demo Here: https://technicalinteract.com/tools/youtube-video-tag-extractor/
 
